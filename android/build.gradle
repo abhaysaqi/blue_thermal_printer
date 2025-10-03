@@ -23,7 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
 
-    namespace "com.blue.thermalprinter"  // 👈 Add this line
+    namespace "id.kakzaki.blue_thermal_printer"  // 👈 Add this line
     
 
     compileSdkVersion 36
